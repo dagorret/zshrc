@@ -1,6 +1,6 @@
 # Mi zshrc
 
-El mismo esta basado en (Oh My Zsh)[https://github.com/robbyrussell/oh-my-zsh/]
+El mismo esta basado en [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh/)
 
 La instalación de Oh My Zsh es mediante el siguiente código
 
